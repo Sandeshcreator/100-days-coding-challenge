@@ -1,0 +1,15 @@
+#inci {
+  height: 55px;
+  width: 95px;
+  background-color: #bbb;
+  border-radius: 5%;
+  display: inline-block;
+}
+
+#dec {
+  height: 55px;
+  width: 95px;
+  background-color: #ff0000;
+  border-radius: 5%;
+  display: inline-block;
+}
