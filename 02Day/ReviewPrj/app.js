@@ -2,10 +2,10 @@
 const reviews = [
     {
       id: 1,
-      name: 'susan smith',
-      job: 'web developer',
-      img: 'https://www.course-api.com/images/people/person-1.jpeg',
-      text: "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      name: 'sandesh mainali',
+      job: 'software developer',
+      img: 'https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      text: "Hello",
     },
     {
       id: 2,
