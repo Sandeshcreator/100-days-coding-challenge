@@ -1,0 +1,1 @@
+//promise.all,resolve,any(static value)
